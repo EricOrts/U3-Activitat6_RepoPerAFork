@@ -39,7 +39,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç Any Nou.  Pau i Salu
 
 
 #### AlumneFila1 PC2:
-
+Eric ha afegit el metode que desitja un Feliç Any Nou
 
 #### AlumneFila1 PC3:
 
